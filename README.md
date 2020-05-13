@@ -10,4 +10,4 @@ Simple splash screen construction
 Subscribe and like => [Splash Screen Yapımı #Flutter](https://youtu.be/ovFqnQ88xHo)
 
 **Our Blog**
-Yazilim Karavani => [www.yazilimkaravani.net](www.yazilimkaravani.net)
+Yazilim Karavani => [https://www.yazilimkaravani.net](www.yazilimkaravani.net)
